@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+
 Hello everyone!
 
 Ling here, this is the first time I use github.
